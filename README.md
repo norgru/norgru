@@ -23,5 +23,5 @@
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
 ### Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Norman Grundy-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/norman-grundy/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Norman%20Grundy-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/norman-grundy/)
 [![Email Me](https://img.shields.io/badge/Email-Me-D14836?style=flat-square&logo=email&logoColor=white)](mailto:grundy.norm@gmail.com)
