@@ -1,6 +1,6 @@
-<h2 align="center">Hi there, I'm Norman</h2>
+<h2 align="center">Hi, I'm Norman</h2>
 
-<p>I'm a passionate Software Developer based in the UK. I specialize in building cutting-edge web applications and have a strong affinity for open source technologies.</p>
+<p>I'm a web developer based in Bath, UK.</p>
 
 <hr>
 
