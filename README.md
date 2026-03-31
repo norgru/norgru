@@ -1,6 +1,6 @@
 <h2 align="center">Hi, I'm Norman</h2>
 
-<p>I'm a web developer based in Bath, UK.</p>
+<p>I'm a remote web developer 🇬🇧🇵🇱🇪🇸</p>
 
 <hr>
 
